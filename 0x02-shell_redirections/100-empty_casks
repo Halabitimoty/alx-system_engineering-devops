@@ -1,0 +1,2 @@
+#!/bin/bash
+find . -em[ty -printf "%f\n"
