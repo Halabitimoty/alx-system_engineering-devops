@@ -1,1 +1,3 @@
-# Solutions to tasks on Networking basics #0
+# Networking
+
+![](https://www.tutorialspoint.com/basics_of_computer_science/images/computer_networking.jpg)
