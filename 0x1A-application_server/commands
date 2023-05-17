@@ -1,0 +1,12 @@
+#!/bin/bash
+
+# Updating local package index and then installing the packages.
+
+sudo apt-get update
+sudo apt-get install python3-pip python3-dev nginx
+
+# installing the virtualenv package using pip
+sudo pip3 install virtualenv
+
+mkdir ~/myproject
+cd ~/myproject
